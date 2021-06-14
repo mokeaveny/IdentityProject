@@ -32,6 +32,12 @@ namespace IdentityProject
                     "ConnectionStrings:IdentityConnection"]));
             services.AddIdentity<IdentityUser, IdentityRole>()
                 .AddEntityFrameworkStores<IdentityContext>();
+
+            services.Configure<IdentityOptions>(opts =>
+            {
+                opts.User.RequireUniqueEmail = true;
+                opts.User.AllowedUserNameCharacters = "acdefghijklmnopqrstuvwxyz";
+            });
         }
 
         public void Configure(IApplicationBuilder app)
