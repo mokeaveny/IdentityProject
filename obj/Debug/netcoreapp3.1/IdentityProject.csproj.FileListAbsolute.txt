@@ -371,3 +371,4 @@ C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\IdentityProject\obj\De
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\IdentityProject\obj\Debug\netcoreapp3.1\IdentityProject.RazorTargetAssemblyInfo.cs
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\IdentityProject\obj\Debug\netcoreapp3.1\IdentityProject.Views.pdb
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\IdentityProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\IdentityProject\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Create.cshtml.g.cs
