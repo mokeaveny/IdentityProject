@@ -36,7 +36,7 @@ namespace IdentityProject
             services.Configure<IdentityOptions>(opts =>
             {
                 opts.User.RequireUniqueEmail = true;
-                opts.User.AllowedUserNameCharacters = "acdefghijklmnopqrstuvwxyz";
+                opts.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyz";
             });
         }
 
