@@ -57,6 +57,7 @@ namespace IdentityProject
                 endpoints.MapRazorPages();
             });
 
+            IdentitySeedData.CreateAdminAccount(app.ApplicationServices, Configuration);
         }
     }
 }
