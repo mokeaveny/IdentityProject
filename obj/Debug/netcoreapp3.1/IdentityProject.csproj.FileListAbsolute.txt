@@ -385,3 +385,5 @@ C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\IdentityProject\obj\De
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\IdentityProject\obj\Debug\netcoreapp3.1\Razor\Pages\Account\Login.cshtml.g.cs
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\IdentityProject\obj\Debug\netcoreapp3.1\Razor\Pages\Account\Logout.cshtml.g.cs
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\IdentityProject\obj\Debug\netcoreapp3.1\Razor\Pages\Account\_Layout.cshtml.g.cs
+C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\IdentityProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Authorized.cshtml.g.cs
+C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\IdentityProject\obj\Debug\netcoreapp3.1\Razor\Pages\Account\AccessDenied.cshtml.g.cs
