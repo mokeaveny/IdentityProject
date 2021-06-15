@@ -48,6 +48,8 @@ namespace IdentityProject
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllerRoute("controllers",
+                "controllers/{controller=Home}/{action=Index}");
                 endpoints.MapDefaultControllerRoute();
                 endpoints.MapRazorPages();
             });
